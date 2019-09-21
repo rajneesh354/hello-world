@@ -4,3 +4,4 @@
 <h2> Will be master of devops </h2>
 <h2> Will keep learning </h2>
 <h2> Practice make perfect </h2>
+<h2> hardwark and consistancy lead to success </h2>
